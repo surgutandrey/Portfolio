@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files. Байт-скомпилированные / оптимизированные / DLL-файлы
 __pycache__/
 *.py[cod]
 *$py.class
@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# Distribution / packaging. Распространение / упаковка
 .Python
 build/
 develop-eggs/
@@ -27,16 +27,16 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#  Usually these files are written by a python script from a template. Обычно эти файлы записываются скриптом на python из шаблона
+#  before PyInstaller builds the exe, so as to inject date/other infos into it. прежде чем PyInstaller соберет исполняемый файл, чтобы ввести в него данные / другую информацию.
 *.manifest
 *.spec
 
-# Installer logs
+# Installer logs. Логи установки
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test / coverage reports. Отчеты о модульном тестировании / покрытии
 htmlcov/
 .tox/
 .nox/
@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Следующие значения вставлены в ручную:
+# Любая директория с именем "data" будет проигнорирована вместе со всеми файлами внутри неё, независимо от уровня вложенности.
+data/
