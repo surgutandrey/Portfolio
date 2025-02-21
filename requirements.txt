@@ -1,3 +1,5 @@
+appdirs==1.4.4
+astor==0.8.1
 asttokens==3.0.0
 attrs==25.1.0
 colorama==0.4.6
@@ -25,6 +27,7 @@ nest-asyncio==1.6.0
 numpy==2.2.2
 packaging==24.2
 pandas==2.2.3
+pandasgui==0.2.14
 parso==0.8.4
 pillow==11.1.0
 platformdirs==4.3.6
@@ -32,12 +35,20 @@ plotly==6.0.0
 prompt_toolkit==3.0.50
 psutil==6.1.1
 pure_eval==0.2.3
+pyarrow==19.0.1
 Pygments==2.19.1
+pynput==1.7.7
 pyparsing==3.2.1
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+PyQtWebEngine==5.15.7
+PyQtWebEngine-Qt5==5.15.2
 python-dateutil==2.9.0.post0
 pytz==2025.1
 pywin32==308
 pyzmq==26.2.1
+qtstylish==0.1.5
 referencing==0.36.2
 rpds-py==0.22.3
 scipy==1.15.1
@@ -49,3 +60,4 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.1
 wcwidth==0.2.13
+wordcloud==1.9.4
