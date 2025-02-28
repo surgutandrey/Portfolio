@@ -12,4 +12,4 @@
 5. Какие аномалии и выбросы присутствуют в данных, и как они могут влиять на результаты анализа?
 
 ## Используемые библиотеки
-*pandas*, *matplotlib*, *seaborn*
+*pandas*, *numpy*, *matplotlib*, *seaborn*, *plotly*, *sklearn*
