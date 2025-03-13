@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,6 +137,9 @@
       <workItem from="1741752176376" duration="5366000" />
       <workItem from="1741772039154" duration="27000" />
       <workItem from="1741785907443" duration="3095000" />
+      <workItem from="1741838464018" duration="190000" />
+      <workItem from="1741839106638" duration="1368000" />
+      <workItem from="1741844141640" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
       <option name="closed" value="true" />
