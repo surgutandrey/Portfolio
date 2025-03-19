@@ -66,7 +66,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GitRepo/Portfolio/customer_segmentation&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitRepo/Portfolio/bank_customer_churn&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -85,6 +85,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitRepo\Portfolio\bank_customer_churn" />
       <recent name="D:\GitRepo\Portfolio\customer_segmentation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -144,6 +145,7 @@
       <workItem from="1742051567668" duration="7000" />
       <workItem from="1742355438306" duration="4711000" />
       <workItem from="1742360193596" duration="564000" />
+      <workItem from="1742366897625" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
       <option name="closed" value="true" />
