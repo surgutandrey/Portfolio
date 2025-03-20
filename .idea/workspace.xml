@@ -72,7 +72,6 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.debugger.dataview.coloredbydefault": "false",
     "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   },
