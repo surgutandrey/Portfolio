@@ -146,6 +146,9 @@
       <workItem from="1742355438306" duration="4711000" />
       <workItem from="1742360193596" duration="564000" />
       <workItem from="1742366897625" duration="9197000" />
+      <workItem from="1742393647750" duration="824000" />
+      <workItem from="1742394483119" duration="23000" />
+      <workItem from="1742438760017" duration="4460000" />
     </task>
     <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
       <option name="closed" value="true" />
@@ -253,6 +256,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="Настройка PyCharm Pro" />
