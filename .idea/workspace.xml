@@ -302,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742457728246</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Отток клиентов банка. 17">
+      <option name="closed" value="true" />
+      <created>1742458655647</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1742458655647</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +351,8 @@
     <MESSAGE value="Отток клиентов банка. 14" />
     <MESSAGE value="Отток клиентов банка. 15" />
     <MESSAGE value="Отток клиентов банка. 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 16" />
+    <MESSAGE value="Отток клиентов банка. 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$generate_toc.coverage" NAME="generate_toc Coverage Results" MODIFIED="1741582229824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/economics_unit" />
