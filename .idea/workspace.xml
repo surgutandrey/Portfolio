@@ -150,7 +150,7 @@
       <workItem from="1742394483119" duration="23000" />
       <workItem from="1742438760017" duration="5299000" />
       <workItem from="1742480995911" duration="1150000" />
-      <workItem from="1742527579259" duration="3921000" />
+      <workItem from="1742527579259" duration="5264000" />
     </task>
     <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
       <option name="closed" value="true" />
@@ -360,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742470708299</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Отток клиентов банка. 24">
+      <option name="closed" value="true" />
+      <created>1742531544748</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1742531544748</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +389,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Настройка PyCharm Pro 3" />
     <MESSAGE value="Настройка PyCharm Pro 5" />
     <MESSAGE value="Настроил для Plotly сохранение графиков в png." />
     <MESSAGE value="1" />
@@ -406,7 +413,8 @@
     <MESSAGE value="Отток клиентов банка. 21" />
     <MESSAGE value="Отток клиентов банка. 22" />
     <MESSAGE value="Отток клиентов банка. 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 23" />
+    <MESSAGE value="Отток клиентов банка. 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 24" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$generate_toc.coverage" NAME="generate_toc Coverage Results" MODIFIED="1741582229824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/economics_unit" />
