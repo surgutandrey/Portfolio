@@ -163,7 +163,7 @@
       <workItem from="1742719243110" duration="3660000" />
       <workItem from="1742726857699" duration="42000" />
       <workItem from="1742726909746" duration="533000" />
-      <workItem from="1742727734039" duration="3612000" />
+      <workItem from="1742727734039" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
       <option name="closed" value="true" />
@@ -469,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742727386815</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Отток клиентов банка. 35">
+      <option name="closed" value="true" />
+      <created>1742731402528</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1742731402528</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +498,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Отток клиентов банка. 8" />
     <MESSAGE value="Отток клиентов банка. 10" />
     <MESSAGE value="Отток клиентов банка. 11" />
     <MESSAGE value="Отток клиентов банка. 12" />
@@ -515,7 +522,8 @@
     <MESSAGE value="Отток клиентов банка. 32. Первая часть завершена" />
     <MESSAGE value="Отток клиентов банка. 33. Доработка" />
     <MESSAGE value="Отток клиентов банка. 33. Доработка 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 33. Доработка 2" />
+    <MESSAGE value="Отток клиентов банка. 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. 35" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
