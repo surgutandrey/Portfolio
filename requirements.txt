@@ -96,3 +96,4 @@ zstandard==0.23.0
 scikit-learn==1.6.1
 xgboost==3.0.0
 catboost~=1.2.7
+optuna~=4.2.1
