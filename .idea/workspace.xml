@@ -195,23 +195,8 @@
       <workItem from="1742872981290" duration="342000" />
       <workItem from="1742874240831" duration="14000" />
       <workItem from="1742886194413" duration="731000" />
-      <workItem from="1742892988395" duration="21890000" />
-    </task>
-    <task id="LOCAL-00004" summary="Настроил для Plotly сохранение графиков в png.">
-      <option name="closed" value="true" />
-      <created>1741586784400</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1741586784400</updated>
-    </task>
-    <task id="LOCAL-00005" summary="1">
-      <option name="closed" value="true" />
-      <created>1741757456481</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1741757456481</updated>
+      <workItem from="1742892988395" duration="21967000" />
+      <workItem from="1742981362703" duration="4540000" />
     </task>
     <task id="LOCAL-00006" summary="2">
       <option name="closed" value="true" />
@@ -589,7 +574,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742917066193</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Отток клиентов банка. Optuna оптимизация 2">
+      <option name="closed" value="true" />
+      <created>1742919951110</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1742919951110</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Отток клиентов банка. Optuna оптимизация 3">
+      <option name="closed" value="true" />
+      <created>1742919981775</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1742919981775</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,8 +611,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Отток клиентов банка. 24" />
-    <MESSAGE value="Отток клиентов банка. 25" />
     <MESSAGE value="Отток клиентов банка. 26" />
     <MESSAGE value="Отток клиентов банка. 27" />
     <MESSAGE value="Отток клиентов банка. 28" />
@@ -635,7 +634,9 @@
     <MESSAGE value="Отток клиентов банка. 45" />
     <MESSAGE value="Отток клиентов банка. 46" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 1" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 2" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
