@@ -197,15 +197,7 @@
       <workItem from="1742886194413" duration="731000" />
       <workItem from="1742892988395" duration="21967000" />
       <workItem from="1742981362703" duration="4540000" />
-      <workItem from="1742989469947" duration="8437000" />
-    </task>
-    <task id="LOCAL-00006" summary="2">
-      <option name="closed" value="true" />
-      <created>1741844235732</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1741844235732</updated>
+      <workItem from="1742989469947" duration="9746000" />
     </task>
     <task id="LOCAL-00007" summary="Отток клиентов банка. 1">
       <option name="closed" value="true" />
@@ -591,7 +583,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742919981775</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Отток клиентов банка. Optuna оптимизация 4">
+      <option name="closed" value="true" />
+      <created>1743002395134</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1743002395135</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +612,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Отток клиентов банка. 26" />
     <MESSAGE value="Отток клиентов банка. 27" />
     <MESSAGE value="Отток клиентов банка. 28" />
     <MESSAGE value="Отток клиентов банка. 29" />
@@ -637,7 +636,8 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 1" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 2" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 3" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
