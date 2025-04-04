@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/test/events.out.tfevents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/test_error.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/catboost_training.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/learn/events.out.tfevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/learn_error.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/catboost_info/time_left.tsv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,15 +195,10 @@
       <workItem from="1743132422080" duration="100000" />
       <workItem from="1743138476530" duration="447000" />
       <workItem from="1743655175250" duration="1514000" />
-      <workItem from="1743674224660" duration="4638000" />
-    </task>
-    <task id="LOCAL-00009" summary="Отток клиентов банка. 3">
-      <option name="closed" value="true" />
-      <created>1742378582202</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1742378582202</updated>
+      <workItem from="1743674224660" duration="4685000" />
+      <workItem from="1743736171560" duration="3000" />
+      <workItem from="1743736510991" duration="13000" />
+      <workItem from="1743740967792" duration="1269000" />
     </task>
     <task id="LOCAL-00010" summary="Отток клиентов банка. 4">
       <option name="closed" value="true" />
@@ -596,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743132496407</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Отток клиентов банка. Optuna оптимизация 7">
+      <option name="closed" value="true" />
+      <created>1743690972462</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1743690972462</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +613,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Отток клиентов банка. 29" />
     <MESSAGE value="Отток клиентов банка. 30" />
     <MESSAGE value="Отток клиентов банка. 31" />
     <MESSAGE value="Отток клиентов банка. 32. Первая часть завершена" />
@@ -642,7 +637,8 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 4" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 5" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 6" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
