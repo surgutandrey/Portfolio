@@ -208,15 +208,7 @@
       <workItem from="1743912173374" duration="696000" />
       <workItem from="1743915846457" duration="215000" />
       <workItem from="1743925790851" duration="432000" />
-      <workItem from="1743926235967" duration="579000" />
-    </task>
-    <task id="LOCAL-00022" summary="Отток клиентов банка. 19">
-      <option name="closed" value="true" />
-      <created>1742463849961</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1742463849961</updated>
+      <workItem from="1743926235967" duration="4005000" />
     </task>
     <task id="LOCAL-00023" summary="Отток клиентов банка. 20">
       <option name="closed" value="true" />
@@ -602,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743849646443</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Отток клиентов банка. Optuna оптимизация 20">
+      <option name="closed" value="true" />
+      <created>1743927514361</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1743927514361</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
