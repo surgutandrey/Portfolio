@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="" />
+    <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,33 +63,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.generate_toc.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GitRepo/Portfolio/customer_segmentation&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.edit_columns.executor": "Run",
+    "Python.generate_toc.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GitRepo/Portfolio/bank_customer_predict",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.splitter.proportion": "0.13267234",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitRepo\Portfolio\customer_segmentation" />
+      <recent name="D:\GitRepo\Portfolio\bank_customer_predict" />
+      <recent name="D:\GitRepo\Portfolio\bank_customer_eda" />
+      <recent name="D:\GitRepo\Portfolio" />
+      <recent name="D:\GitRepo\Portfolio\bank_customer_churn\data" />
+      <recent name="D:\GitRepo\Portfolio\bank_customer_churn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitRepo\Portfolio\economics_unit" />
@@ -94,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -144,60 +155,482 @@
       <workItem from="1742051567668" duration="7000" />
       <workItem from="1742355438306" duration="4711000" />
       <workItem from="1742360193596" duration="564000" />
+      <workItem from="1742366897625" duration="9197000" />
+      <workItem from="1742393647750" duration="824000" />
+      <workItem from="1742394483119" duration="23000" />
+      <workItem from="1742438760017" duration="5299000" />
+      <workItem from="1742480995911" duration="1150000" />
+      <workItem from="1742527579259" duration="13121000" />
+      <workItem from="1742549032560" duration="7837000" />
+      <workItem from="1742614694829" duration="8663000" />
+      <workItem from="1742631882606" duration="40000" />
+      <workItem from="1742631931935" duration="15210000" />
+      <workItem from="1742719243110" duration="3660000" />
+      <workItem from="1742726857699" duration="42000" />
+      <workItem from="1742726909746" duration="533000" />
+      <workItem from="1742727734039" duration="5837000" />
+      <workItem from="1742740908173" duration="1701000" />
+      <workItem from="1742743428215" duration="1444000" />
+      <workItem from="1742792659711" duration="1042000" />
+      <workItem from="1742793724400" duration="272000" />
+      <workItem from="1742794004959" duration="196000" />
+      <workItem from="1742794210028" duration="435000" />
+      <workItem from="1742794655049" duration="952000" />
+      <workItem from="1742795632917" duration="2250000" />
+      <workItem from="1742797905750" duration="2707000" />
+      <workItem from="1742800645065" duration="152000" />
+      <workItem from="1742800988971" duration="191000" />
+      <workItem from="1742801190957" duration="2259000" />
+      <workItem from="1742803589897" duration="631000" />
+      <workItem from="1742804406458" duration="3304000" />
+      <workItem from="1742809772943" duration="432000" />
+      <workItem from="1742810217450" duration="5636000" />
+      <workItem from="1742826813690" duration="5839000" />
+      <workItem from="1742833163516" duration="341000" />
+      <workItem from="1742833518725" duration="369000" />
+      <workItem from="1742872981290" duration="342000" />
+      <workItem from="1742874240831" duration="14000" />
+      <workItem from="1742886194413" duration="731000" />
+      <workItem from="1742892988395" duration="21967000" />
+      <workItem from="1742981362703" duration="4540000" />
+      <workItem from="1742989469947" duration="9789000" />
+      <workItem from="1743070139833" duration="2523000" />
+      <workItem from="1743132422080" duration="100000" />
+      <workItem from="1743138476530" duration="447000" />
+      <workItem from="1743655175250" duration="1514000" />
+      <workItem from="1743674224660" duration="4685000" />
+      <workItem from="1743736171560" duration="3000" />
+      <workItem from="1743736510991" duration="13000" />
+      <workItem from="1743740967792" duration="3648000" />
+      <workItem from="1743745395222" duration="17804000" />
+      <workItem from="1743765492846" duration="6726000" />
+      <workItem from="1743833544755" duration="5034000" />
+      <workItem from="1743842612306" duration="16070000" />
+      <workItem from="1743912173374" duration="696000" />
+      <workItem from="1743915846457" duration="215000" />
+      <workItem from="1743925790851" duration="432000" />
+      <workItem from="1743926235967" duration="10170000" />
+      <workItem from="1743939229370" duration="56000" />
+      <workItem from="1743939294280" duration="8103000" />
+      <workItem from="1743949593968" duration="21000" />
+      <workItem from="1743995522388" duration="12190000" />
+      <workItem from="1744008493641" duration="8144000" />
+      <workItem from="1744024468489" duration="1710000" />
     </task>
-    <task id="LOCAL-00001" summary="Настройка PyCharm Pro">
+    <task id="LOCAL-00038" summary="Отток клиентов банка. 33. Доработка 2">
       <option name="closed" value="true" />
-      <created>1741515131040</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1742727386815</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1741515131040</updated>
+      <updated>1742727386815</updated>
     </task>
-    <task id="LOCAL-00002" summary="Настройка PyCharm Pro 2">
+    <task id="LOCAL-00039" summary="Отток клиентов банка. 35">
       <option name="closed" value="true" />
-      <created>1741515232192</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1742731402528</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1741515232192</updated>
+      <updated>1742731402528</updated>
     </task>
-    <task id="LOCAL-00003" summary="Настройка PyCharm Pro 3">
+    <task id="LOCAL-00040" summary="Отток клиентов банка. 36">
       <option name="closed" value="true" />
-      <created>1741518653399</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+      <created>1742733889824</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1741518653399</updated>
+      <updated>1742733889824</updated>
     </task>
-    <task id="LOCAL-00004" summary="Настроил для Plotly сохранение графиков в png.">
+    <task id="LOCAL-00041" summary="Отток клиентов банка. 37">
       <option name="closed" value="true" />
-      <created>1741586784400</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+      <created>1742743005753</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1741586784400</updated>
+      <updated>1742743005753</updated>
     </task>
-    <task id="LOCAL-00005" summary="1">
+    <task id="LOCAL-00042" summary="Отток клиентов банка. 38">
       <option name="closed" value="true" />
-      <created>1741757456481</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+      <created>1742799911717</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1741757456481</updated>
+      <updated>1742799911717</updated>
     </task>
-    <task id="LOCAL-00006" summary="2">
+    <task id="LOCAL-00043" summary="Отток клиентов банка. 39. Отладка раздела с маш обучением">
       <option name="closed" value="true" />
-      <created>1741844235732</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+      <created>1742800621104</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1741844235732</updated>
+      <updated>1742800621104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00044" summary="Отток клиентов банка. 39. Отладка раздела с маш обучением 2">
+      <option name="closed" value="true" />
+      <created>1742800775399</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1742800775399</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Отток клиентов банка. 40">
+      <option name="closed" value="true" />
+      <created>1742802244374</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742802244374</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Отток клиентов банка. 41">
+      <option name="closed" value="true" />
+      <created>1742803363980</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1742803363980</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Отток клиентов банка. 42">
+      <option name="closed" value="true" />
+      <created>1742803860330</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1742803860330</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Отток клиентов банка. 43">
+      <option name="closed" value="true" />
+      <created>1742812646709</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1742812646709</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Отток клиентов банка. 44">
+      <option name="closed" value="true" />
+      <created>1742815793587</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1742815793587</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Отток клиентов банка. 45">
+      <option name="closed" value="true" />
+      <created>1742829276656</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1742829276657</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Отток клиентов банка. 46">
+      <option name="closed" value="true" />
+      <created>1742833826040</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1742833826040</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Отток клиентов банка. Optuna оптимизация 1">
+      <option name="closed" value="true" />
+      <created>1742917066192</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1742917066193</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Отток клиентов банка. Optuna оптимизация 2">
+      <option name="closed" value="true" />
+      <created>1742919951110</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1742919951110</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Отток клиентов банка. Optuna оптимизация 3">
+      <option name="closed" value="true" />
+      <created>1742919981775</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1742919981775</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Отток клиентов банка. Optuna оптимизация 4">
+      <option name="closed" value="true" />
+      <created>1743002395134</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1743002395135</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Отток клиентов банка. Optuna оптимизация 5">
+      <option name="closed" value="true" />
+      <created>1743006608442</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1743006608442</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Отток клиентов банка. Optuna оптимизация 6">
+      <option name="closed" value="true" />
+      <created>1743132496407</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1743132496407</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Отток клиентов банка. Optuna оптимизация 7">
+      <option name="closed" value="true" />
+      <created>1743690972462</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1743690972462</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Отток клиентов банка. Optuna оптимизация 8">
+      <option name="closed" value="true" />
+      <created>1743742271073</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1743742271073</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Отток клиентов банка. Optuna оптимизация 9">
+      <option name="closed" value="true" />
+      <created>1743755549841</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1743755549842</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Отток клиентов банка. Optuna оптимизация 10">
+      <option name="closed" value="true" />
+      <created>1743758317004</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1743758317004</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Отток клиентов банка. Optuna оптимизация 11">
+      <option name="closed" value="true" />
+      <created>1743759381827</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1743759381827</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Отток клиентов банка. Optuna оптимизация 12">
+      <option name="closed" value="true" />
+      <created>1743761861758</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1743761861758</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Отток клиентов банка. Optuna оптимизация 14">
+      <option name="closed" value="true" />
+      <created>1743762265964</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1743762265964</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Отток клиентов банка. Optuna оптимизация 15">
+      <option name="closed" value="true" />
+      <created>1743763744795</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1743763744795</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Отток клиентов банка. Optuna оптимизация 16">
+      <option name="closed" value="true" />
+      <created>1743765248396</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1743765248396</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Отток клиентов банка. Optuna оптимизация 17">
+      <option name="closed" value="true" />
+      <created>1743770458802</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1743770458803</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Отток клиентов банка. Optuna оптимизация 18">
+      <option name="closed" value="true" />
+      <created>1743772985270</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1743772985270</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Отток клиентов банка. Optuna оптимизация 19">
+      <option name="closed" value="true" />
+      <created>1743845406336</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1743845406336</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Отток клиентов банка. Optuna оптимизация 20">
+      <option name="closed" value="true" />
+      <created>1743849646443</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1743849646443</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Отток клиентов банка. Optuna оптимизация 20">
+      <option name="closed" value="true" />
+      <created>1743927514361</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1743927514361</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Отток клиентов банка. Optuna оптимизация 21">
+      <option name="closed" value="true" />
+      <created>1743933004837</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1743933004837</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Отток клиентов банка. Optuna оптимизация 22">
+      <option name="closed" value="true" />
+      <created>1743943459050</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1743943459050</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Отток клиентов банка. Optuna оптимизация 23">
+      <option name="closed" value="true" />
+      <created>1743944830275</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1743944830275</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Отток клиентов банка. Optuna оптимизация 24">
+      <option name="closed" value="true" />
+      <created>1743947737210</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1743947737210</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Отток клиентов банка. Optuna оптимизация 25">
+      <option name="closed" value="true" />
+      <created>1743948508990</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1743948508990</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Отток клиентов банка. Optuna оптимизация 26">
+      <option name="closed" value="true" />
+      <created>1743949554855</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1743949554855</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Отток клиентов банка. Optuna оптимизация 27">
+      <option name="closed" value="true" />
+      <created>1743998708134</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1743998708134</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Отток клиентов банка. Optuna оптимизация 28">
+      <option name="closed" value="true" />
+      <created>1744003614220</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1744003614220</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Отток клиентов банка. Optuna оптимизация 29">
+      <option name="closed" value="true" />
+      <created>1744007981801</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1744007981801</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Отток клиентов банка. Optuna оптимизация 30">
+      <option name="closed" value="true" />
+      <created>1744010412364</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1744010412364</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Отток клиентов банка. Optuna оптимизация 31">
+      <option name="closed" value="true" />
+      <created>1744011581047</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1744011581047</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Отток клиентов банка. Optuna оптимизация 32">
+      <option name="closed" value="true" />
+      <created>1744015358405</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1744015358405</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Отток клиентов банка. Optuna оптимизация 33">
+      <option name="closed" value="true" />
+      <created>1744017966778</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1744017966778</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Отток клиентов банка. Optuna оптимизация 34">
+      <option name="closed" value="true" />
+      <created>1744019107820</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1744019107820</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Отток клиентов банка. Optuna оптимизация 35">
+      <option name="closed" value="true" />
+      <created>1744019607694</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1744019607694</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -211,18 +644,38 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Настройка PyCharm Pro" />
-    <MESSAGE value="Настройка PyCharm Pro 2" />
-    <MESSAGE value="Настройка PyCharm Pro 3" />
-    <MESSAGE value="Настройка PyCharm Pro 5" />
-    <MESSAGE value="Настроил для Plotly сохранение графиков в png." />
-    <MESSAGE value="1" />
-    <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 10" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 11" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 12" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 14" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 15" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 16" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 17" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 18" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 19" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 20" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 21" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 22" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 23" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 24" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 25" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 26" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 27" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 28" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 29" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 30" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 31" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 32" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 33" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
+    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 35" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Portfolio$generate_toc.coverage" NAME="generate_toc Coverage Results" MODIFIED="1741582229824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/economics_unit" />
+    <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
+    <SUITE FILE_PATH="coverage/Portfolio$generate_toc.coverage" NAME="generate_toc Coverage Results" MODIFIED="1742717515849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
   </component>
 </project>
