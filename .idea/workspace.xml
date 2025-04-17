@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,78 +215,12 @@
       <workItem from="1744008493641" duration="8144000" />
       <workItem from="1744024468489" duration="1710000" />
       <workItem from="1744028131906" duration="1196000" />
-    </task>
-    <task id="LOCAL-00038" summary="Отток клиентов банка. 33. Доработка 2">
-      <option name="closed" value="true" />
-      <created>1742727386815</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1742727386815</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Отток клиентов банка. 35">
-      <option name="closed" value="true" />
-      <created>1742731402528</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1742731402528</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Отток клиентов банка. 36">
-      <option name="closed" value="true" />
-      <created>1742733889824</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1742733889824</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Отток клиентов банка. 37">
-      <option name="closed" value="true" />
-      <created>1742743005753</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1742743005753</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Отток клиентов банка. 38">
-      <option name="closed" value="true" />
-      <created>1742799911717</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1742799911717</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Отток клиентов банка. 39. Отладка раздела с маш обучением">
-      <option name="closed" value="true" />
-      <created>1742800621104</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1742800621104</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Отток клиентов банка. 39. Отладка раздела с маш обучением 2">
-      <option name="closed" value="true" />
-      <created>1742800775399</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1742800775399</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Отток клиентов банка. 40">
-      <option name="closed" value="true" />
-      <created>1742802244374</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1742802244374</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Отток клиентов банка. 41">
-      <option name="closed" value="true" />
-      <created>1742803363980</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1742803363980</updated>
+      <workItem from="1744801188436" duration="15000" />
+      <workItem from="1744805532103" duration="16000" />
+      <workItem from="1744858768506" duration="39000" />
+      <workItem from="1744861033025" duration="17124000" />
+      <workItem from="1744886140468" duration="4760000" />
+      <workItem from="1744890942025" duration="5732000" />
     </task>
     <task id="LOCAL-00047" summary="Отток клиентов банка. 42">
       <option name="closed" value="true" />
@@ -610,7 +542,79 @@
       <option name="project" value="LOCAL" />
       <updated>1744019607694</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1744864702815</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1744864702816</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Мелкие правки 2">
+      <option name="closed" value="true" />
+      <created>1744866323910</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1744866323910</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Мелкие правки 3">
+      <option name="closed" value="true" />
+      <created>1744876838269</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1744876838269</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Мелкие правки 2">
+      <option name="closed" value="true" />
+      <created>1744883149899</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1744883149899</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1744889459777</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1744889459777</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Мелкие правки 2">
+      <option name="closed" value="true" />
+      <created>1744890810594</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1744890810594</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1744891251165</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1744891251165</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Мелкие правки 2">
+      <option name="closed" value="true" />
+      <created>1744893128806</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1744893128806</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1744893972599</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1744893972600</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,9 +652,6 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 10" />
-    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 11" />
-    <MESSAGE value="Отток клиентов банка. Optuna оптимизация 12" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 14" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 15" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 16" />
@@ -673,7 +674,10 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 33" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отток клиентов банка. Optuna оптимизация 35" />
+    <MESSAGE value="Мелкие правки 3" />
+    <MESSAGE value="Мелкие правки 2" />
+    <MESSAGE value="Мелкие правки 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
