@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,15 +218,8 @@
       <workItem from="1744801188436" duration="15000" />
       <workItem from="1744805532103" duration="16000" />
       <workItem from="1744858768506" duration="39000" />
-      <workItem from="1744861033025" duration="17074000" />
-    </task>
-    <task id="LOCAL-00041" summary="Отток клиентов банка. 37">
-      <option name="closed" value="true" />
-      <created>1742743005753</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1742743005753</updated>
+      <workItem from="1744861033025" duration="17124000" />
+      <workItem from="1744886140468" duration="3272000" />
     </task>
     <task id="LOCAL-00042" summary="Отток клиентов банка. 38">
       <option name="closed" value="true" />
@@ -614,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744876838269</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Мелкие правки 2">
+      <option name="closed" value="true" />
+      <created>1744883149899</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1744883149899</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,9 +674,9 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
     <MESSAGE value="Мелкие правки 1" />
-    <MESSAGE value="Мелкие правки 2" />
     <MESSAGE value="Мелкие правки 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 3" />
+    <MESSAGE value="Мелкие правки 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
