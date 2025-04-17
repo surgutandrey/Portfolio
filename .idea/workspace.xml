@@ -220,15 +220,7 @@
       <workItem from="1744858768506" duration="39000" />
       <workItem from="1744861033025" duration="17124000" />
       <workItem from="1744886140468" duration="4760000" />
-      <workItem from="1744890942025" duration="2995000" />
-    </task>
-    <task id="LOCAL-00046" summary="Отток клиентов банка. 41">
-      <option name="closed" value="true" />
-      <created>1742803363980</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1742803363980</updated>
+      <workItem from="1744890942025" duration="5732000" />
     </task>
     <task id="LOCAL-00047" summary="Отток клиентов банка. 42">
       <option name="closed" value="true" />
@@ -614,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744893128806</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1744893972599</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1744893972600</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,9 +675,9 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
     <MESSAGE value="Мелкие правки 3" />
-    <MESSAGE value="Мелкие правки 1" />
     <MESSAGE value="Мелкие правки 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 2" />
+    <MESSAGE value="Мелкие правки 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
