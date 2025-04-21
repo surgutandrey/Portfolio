@@ -240,6 +240,7 @@
       <workItem from="1745160154429" duration="147000" />
       <workItem from="1745160313426" duration="175000" />
       <workItem from="1745160614467" duration="3295000" />
+      <workItem from="1745197591820" duration="1830000" />
     </task>
     <task id="LOCAL-00052" summary="Отток клиентов банка. Optuna оптимизация 1">
       <option name="closed" value="true" />
@@ -694,9 +695,9 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
     <MESSAGE value="Мелкие правки 3" />
-    <MESSAGE value="Мелкие правки 2" />
     <MESSAGE value="Мелкие правки 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 1" />
+    <MESSAGE value="Мелкие правки 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Portfolio$edit_columns.coverage" NAME="edit_columns Coverage Results" MODIFIED="1742730524889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bank_customer_churn/data" />
