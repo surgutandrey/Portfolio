@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d3514bd9-76c4-4431-ba18-da7ece9f9c4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_customer_eda/bank_customer_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_eda/bank_customer_eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer_segmentation/customer_segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/customer_segmentation/customer_segmentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/bank_customer_predict.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" beforeDir="false" afterPath="$PROJECT_DIR$/bank_customer_predict/optuna_studies/my_study.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,22 +240,10 @@
       <workItem from="1745160154429" duration="147000" />
       <workItem from="1745160313426" duration="175000" />
       <workItem from="1745160614467" duration="3295000" />
-    </task>
-    <task id="LOCAL-00052" summary="Отток клиентов банка. Optuna оптимизация 1">
-      <option name="closed" value="true" />
-      <created>1742917066192</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1742917066193</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Отток клиентов банка. Optuna оптимизация 2">
-      <option name="closed" value="true" />
-      <created>1742919951110</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1742919951110</updated>
+      <workItem from="1745197591820" duration="12065000" />
+      <workItem from="1745213105774" duration="34000" />
+      <workItem from="1745213183975" duration="647000" />
+      <workItem from="1745213861833" duration="4042000" />
     </task>
     <task id="LOCAL-00054" summary="Отток клиентов банка. Optuna оптимизация 3">
       <option name="closed" value="true" />
@@ -633,7 +621,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745162577484</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Мелкие правки 3">
+      <option name="closed" value="true" />
+      <created>1745199621891</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1745199621891</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Мелкие правки 1">
+      <option name="closed" value="true" />
+      <created>1745201229499</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1745201229499</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -693,8 +697,8 @@
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 33" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 34" />
     <MESSAGE value="Отток клиентов банка. Optuna оптимизация 35" />
-    <MESSAGE value="Мелкие правки 3" />
     <MESSAGE value="Мелкие правки 2" />
+    <MESSAGE value="Мелкие правки 3" />
     <MESSAGE value="Мелкие правки 1" />
     <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки 1" />
   </component>
